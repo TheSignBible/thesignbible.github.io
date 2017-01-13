@@ -133,7 +133,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-uploads-1413259835094dcdeb9d3-6e609595-2000x1330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/new-york-city-streets-at-night-wallpaper-3-2000x1250-1.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -148,7 +148,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Coming Soon..</span><br>",
+          "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Coming Soon..</span><br>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More..</a> "
         },
