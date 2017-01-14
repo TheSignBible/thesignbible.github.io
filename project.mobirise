@@ -217,8 +217,15 @@
             }
           },
           "title": "",
-          "text": "Cheap, Fast, Quality: Pick Two.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "<b>Design, Build, Service.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "B": {
+              "font-size": "24px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -236,7 +243,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<blockquote>Design. Build. Service! Aquire the knowledge (or at least know where to find it) on How to Design, Build, and Service some examples of Todays signage. Learn about the history of signs, common materials and tools, fabrication techniques, installation tips, and common electrical sign troubleshooting.</blockquote>"
+          "text": "<blockquote>Aquire the knowledge (or at least know where to find it) on How to Design, Build, and Service some examples of todays signage. Learn about the history of signs, construction materials and tools, fabrication techniques, installation tips, and common electrical sign troubleshooting.</blockquote>"
         },
         {
           "_styles": {
@@ -297,7 +304,7 @@
             "showSubTitle": true
           },
           "title": "CONTACT FORM",
-          "subtitle": "Feel like we've missed something? Is there a particular process you would like to see on here? &nbsp;Let us know!<br>If you would like any of your work featured please submit a request below.",
+          "subtitle": "Feel like we've missed something?<br> Is there a particular process you would like to see on here? &nbsp;<br>Let us know!<br><br>If you would like any of your work featured please submit a request below.",
           "form": {
             "action": "thesignbible@gmail.com",
             "alerts": {
