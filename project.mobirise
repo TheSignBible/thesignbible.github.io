@@ -249,6 +249,13 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_tags": [
@@ -258,7 +265,7 @@
           "_anchor": "content5-2",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/stocksnap-9d1abedfac-2000x1317.jpg",
@@ -269,13 +276,13 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.9",
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": true
           },
           "title": "A business without a sign...<br>is a sign of no business",
-          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+          "caption": "<p><b>Whats slightly older than written language? <i>Signage.</i></b>&nbsp;Although the term was only popularized in the late 70's.for nearly 40,000 years Humans have been using signs and symbols in place of words to identify the presence of someone, somewhere, or something. From hand-drawn cave paintings to wayfinding and advertisment, warnings and regulations, signs have evolved to suit modern taste in-tune with society.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Bylaws, regulations, innovation, and imagination have all influenced not only the design but also the fabrication methods and techniques used to produce a better, safer, more durable product. Heck, during the reasearch for this project, we learned that one of the the first bylaws for signs was written in France. It addressed Horseman stiking their heads on signs that were hanging over sidewalks. <b>The Result? </b>Signs could no longer hang over the sidewalk. In fact, these signs had to be fixed flat to a wall or sticking out no further than 4 inches. When the neighbourhood became saturated with signboards, they needed to distinguish whos pub was whos, and started to use address numbers. </p><p>Who knew?</p>"
         },
         {
           "_tags": [

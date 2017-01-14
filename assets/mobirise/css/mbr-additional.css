@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -496,6 +498,12 @@ h6,
 #content5-2 .mbr-section-title,
 #content5-2 p {
   color: #fff;
+}
+#content5-2 DIV {
+  color: #ffffff;
+}
+#content5-2 P {
+  font-family: 'Oxygen', sans-serif;
 }
 #form1-7 .form-control-label {
   color: #232323;
