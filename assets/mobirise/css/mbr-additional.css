@@ -485,6 +485,9 @@ h6,
 #header1-1 .mbr-section-title P {
   font-size: 60px;
 }
+#content2-4 BLOCKQUOTE {
+  color: #c1c1c1;
+}
 #content5-2 .mbr-section-title,
 #content5-2 p {
   color: #fff;
