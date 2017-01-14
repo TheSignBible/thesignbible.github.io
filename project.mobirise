@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 7,
+    "uniqCompNum": 8,
     "versionPublish": "3.10.7"
   },
   "pages": {
@@ -145,7 +145,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo1-tsb-2000x1266-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo1-tsb-2000x1266-1.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -177,7 +177,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/logo1-tsb-2000x1266.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -225,18 +225,18 @@
             "Theme"
           ],
           "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#c1c1c1"
+            }
+          },
           "_anchor": "content2-4",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<blockquote>Design. Build. Service! Aquire the knowledge (or at least know where to find it) on How to Design, Build, and Service some examples of Todays signage. Learn about the history of signs, common materials and tools, fabrication techniques, installation tips, and common electrical sign troubleshooting.</blockquote>",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "color": "#c1c1c1"
-            }
-          }
+          "text": "<blockquote>Design. Build. Service! Aquire the knowledge (or at least know where to find it) on How to Design, Build, and Service some examples of Todays signage. Learn about the history of signs, common materials and tools, fabrication techniques, installation tips, and common electrical sign troubleshooting.</blockquote>"
         },
         {
           "_styles": {
@@ -267,8 +267,65 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "BACKGROUND IMAGE",
+          "title": "A business without a sign...<br>is a sign of no business",
           "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-7",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Feel like we've missed something? Is there a particular process you would like to see on here? &nbsp;Let us know!<br>If you would like any of your work featured please submit a request below.",
+          "form": {
+            "action": "thesignbible@gmail.com",
+            "alerts": {
+              "success": "Thanks for the feedback! We're currently under construction and are trying to add new content as soon as possible. "
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_name": "footer1",
